@@ -161,6 +161,47 @@
       "Id": "e9d69805-edb5-43da-8258-5520000bf3a6",
       "Name": "Sway",
       "Subjects": []
+    },
+    {
+      "Id": "6E6F6A7B-8A61-450B-BF90-D458C6D95F46",
+      "Name": "AVEVA System Platform",
+      "Subjects": [
+        {
+          "Id": "01E638D6-CCFA-4968-BD69-31A4CCEB37EE",
+          "Name": "Application Server"
+        },
+        {
+          "Id": "F0E10350-C471-4583-90AB-DEA57E089D91",
+          "Name": "Historian Server"
+        },
+        {
+          "Id": "4E316876-3622-4C9C-B10C-3A0AD661FCC0",
+          "Name": "InTouch Stand Alone"
+        },
+        {
+          "Id": "74D88747-AF22-4070-9C2A-1817A53F5EFB",
+          "Name": "InTouch For System Platform"
+        },
+        {
+          "Id": "A7C99964-3C18-4534-8AC2-2DD3B68BDDF8",
+          "Name": "InTouch OMI"
+        }
+      ]
+    },
+    {
+      "Id": "F561B1F3-7A04-4645-B4D3-3CFFC558156F",
+      "Name": "Microsoft SQL Server",
+      "Subjects": []
+    },
+    {
+      "Id": "B7A707C7-CCFB-4EE7-AB2C-D391628823BE",
+      "Name": "Roima Tools",
+      "Subjects": [
+        {
+          "Id": "04B82B9A-436B-45EE-823B-4625830310A4",
+          "Name": "Time Report"
+        }
+      ]
     }
   ],
   "Categories": [
@@ -496,6 +537,10 @@
     {
       "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
       "Name": "Content Manager"
+    },
+    {
+      "Id": "0DF5451C-6061-4104-865D-5A683FA4CF0D",
+      "Name": "SCADA Engineer"
     }
   ],
   "Sources": [
@@ -503,7 +548,8 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "AVEVA"
   ],
   "Levels": [
     {
