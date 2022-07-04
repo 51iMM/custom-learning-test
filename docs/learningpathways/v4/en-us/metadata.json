@@ -487,6 +487,34 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "B5CE90E7-00BE-4976-83AB-4E6697961835",
+      "Name": "Aveva",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "AVEVA",
+      "SubCategories": [
+        {
+          "Id": "E8218ABD-25EC-44ED-81ED-1EC7EFE5BB5C",
+          "Name": "Application Server",
+          "Image": "images/categories/platform.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "AVEVA",
+          "SubCategories": []
+        },
+        {
+          "Id": "D002CBDB-2D3E-4679-978A-B67D282F7FDE",
+          "Name": "Historian",
+          "Image": "images/categories/historian.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "AVEVA",
+          "SubCategories": []
+        }
+      ]
     }
   ],
   "Audiences": [
