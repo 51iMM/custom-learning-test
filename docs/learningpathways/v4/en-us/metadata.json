@@ -568,6 +568,10 @@
     {
       "Id": "f110eb03-e899-46a9-83be-8f507dae83c1",
       "Name": "Content Manager"
+    },
+    {
+      "Id": "D6F1ADE5-F2FC-4149-B520-4BF9FB97C887",
+      "Name": "Process BA"
     }
   ],
   "Sources": [
