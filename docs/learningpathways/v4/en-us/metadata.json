@@ -269,6 +269,34 @@
       ]
     },
     {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Get started Process BA",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Roima",
+      "SubCategories": [
+        {
+          "Id": "C4A62E95-94D4-4B85-80EB-DC26C9E3EB1B",
+          "Name": "First days BA",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Roima",
+          "SubCategories": []
+        },
+        {
+          "Id": "CF89658D-B2C0-4E9D-A3A9-8752C3611843",
+          "Name": "Get Started with Aveva",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Roima",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenarios",
       "Image": "",
