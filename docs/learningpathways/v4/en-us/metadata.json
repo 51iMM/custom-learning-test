@@ -197,6 +197,10 @@
       "Name": "InTouch",
       "Subjects": [
         {
+          "Id": "D47641F5-E303-4D9D-AC0B-CD47A35F1246",
+          "Name": "InTouch Workstation"
+        },
+        {
           "Id": "65E9B5D9-04DC-48EC-BFD0-E15DE582A684",
           "Name": "InTouch OMI"
         }
