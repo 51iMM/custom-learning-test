@@ -179,33 +179,33 @@
     },
     {
       "Id": "86C80259-1914-4C0F-BFC4-865E328D9A80",
-      "Name": "Aveva System Platform",
+      "Name": "Application Server",
+      "Subjects": []
+    },
+    {
+      "Id": "DE171B21-003D-420F-9D1C-C0FEBA205C3F",
+      "Name": "Historian Server",
       "Subjects": [
-        {
-          "Id": "C9A20B59-F1F3-4CDC-82B2-C51D3BD7F1F0",
-          "Name": "Application Server"
-        },
-        {
-          "Id": "DE171B21-003D-420F-9D1C-C0FEBA205C3F",
-          "Name": "Historian Server"
-        },
-        {
-          "Id": "84CBA768-34A4-4A92-9CD2-FD683759FFB3",
-          "Name": "InTouch"
-        },
-        {
-          "Id": "65E9B5D9-04DC-48EC-BFD0-E15DE582A684",
-          "Name": "InTouch OMI"
-        },
         {
           "Id": "D3755175-CCAB-49C0-B2E8-AE77EB01D15C",
           "Name": "Historian Clients"
-        },
-        {
-          "Id": "C9009FD4-D7D0-4568-8C58-AF11275AF3B4",
-          "Name": "Device Integration"
         }
       ]
+    },
+    {
+      "Id": "84CBA768-34A4-4A92-9CD2-FD683759FFB3",
+      "Name": "InTouch",
+      "Subjects": [
+        {
+          "Id": "65E9B5D9-04DC-48EC-BFD0-E15DE582A684",
+          "Name": "InTouch OMI"
+        }
+      ]
+    },
+    {
+      "Id": "C9009FD4-D7D0-4568-8C58-AF11275AF3B4",
+      "Name": "Device Integration",
+      "Subjects": []
     },
     {
       "Id": "9CF99ACF-46FC-48AE-B016-98475F5D842E",
