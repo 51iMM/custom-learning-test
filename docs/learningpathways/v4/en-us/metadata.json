@@ -317,25 +317,6 @@
       ]
     },
     {
-      "Id": "134F17DD-DDF2-489D-A95E-6F0E031BFDFB",
-      "Name": "Customers",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Roima",
-      "SubCategories": [
-        {
-          "Id": "B203B7BD-F74D-4A24-8CD8-87B6F064D416",
-          "Name": "Customer Information",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Roima",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenarios",
       "Image": "",
