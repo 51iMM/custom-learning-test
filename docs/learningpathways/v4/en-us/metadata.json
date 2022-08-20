@@ -290,7 +290,7 @@
     },
     {
       "Id": "C4DD7E5F-BA62-41D6-AF96-6FBB24E883C7",
-      "Name": "Get started Process BA",
+      "Name": "Get started PBA",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -316,7 +316,6 @@
         }
       ]
     },
-
     {
       "Id": "CD1AAD96-18A4-41E3-A13A-856787CBD514",
       "Name": "Customer",
